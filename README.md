@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello! I'm Smit Sandipbhai Pachchigar.
 
-<!--
-**PachchigarSmit/PachchigarSmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | 💻 .NET & Angular Developer | 🌏 Based in Gujarat, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- ⚙️ .NET Core, ASP.NET MVC
+- 🌐 Angular, JavaScript, HTML/CSS
+- 🧰 SQL Server, My SQL, Git, GitHub
+- ☁️ Basics of Azure / Cloud
+- 🧪 Postman, Swagger
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: smitpachchigar3346@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/smit-pachchigar-56b9661b3)
+
+---
